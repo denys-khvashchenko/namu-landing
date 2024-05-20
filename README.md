@@ -30,20 +30,20 @@ To get started with the project locally, follow these steps:
 
 *- Run the following command, replacing yourusername with your GitHub username:*
 
-*- git clone https://github.com/yourusername/your-repo-name.git*
+*`git clone https://github.com/yourusername/your-repo-name.git`*
 
 3. **Navigate to the project directory:**
 
-*- cd your-repo-name*
+*`cd your-repo-name`*
 
 4. **Install the project dependencies:**
 
-*- npm install*
+*`npm install`*
 
 **Or alternatively:**
 
-*- npm i*
+*`npm i`*
 
 5. **Start the development server:**
 
-*- npm start*
+*`npm start`*
