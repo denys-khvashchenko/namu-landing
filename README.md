@@ -18,32 +18,20 @@ This project is a landing page for the National Art Museum of Ukraine. It showca
 
 To get started with the project locally, follow these steps:
 
-1. **Fork the repository:**
+**Fork the repository:**
+  - Go to the original repository on GitHub.
+  - Click on the "Fork" button in the upper right corner of the page.
 
-  *- Go to the original repository on GitHub.*
-
-  *- Click on the "Fork" button in the upper right corner of the page.*
-
-2. **Clone the forked repository:**
-
-*- Open your terminal.*
-
-*- Run the following command, replacing yourusername with your GitHub username:*
-
-*`git clone https://github.com/yourusername/your-repo-name.git`*
-
-3. **Navigate to the project directory:**
-
-*`cd your-repo-name`*
-
-4. **Install the project dependencies:**
-
-*`npm install`*
-
-**Or alternatively:**
-
-*`npm i`*
-
-5. **Start the development server:**
-
-*`npm start`*
+**Clone the forked repository:**
+  - Open your terminal.
+  - Run the following command, replacing `yourusername` with your GitHub username:
+  - `git clone https://github.com/yourusername/your-repo-name.git`
+    
+**Navigate to the project directory:**
+    `cd your-repo-name`
+    
+**Install the project dependencies:**
+    `npm install`
+    
+**Start the development server:**
+    `npm start`
