@@ -9,7 +9,7 @@ This project is a landing page for the National Art Museum of Ukraine. It showca
  - JavaScript
 
 ## Preview
-- [NAMU landing preview](https://khvashchenkodenys.github.io/namu-landing/)
+- [NAMU landing preview](https://denys-khvashchenko.github.io/namu-landing/)
 
 ## Mockup
   - [NAMU mockup](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957)
